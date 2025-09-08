@@ -3,9 +3,10 @@
 
 🛠️ My tech journey includes:<br>
 - **Languages & Frameworks:** C++ (expert), Qt, C#, JavaScript, TypeScript, React.js, ASP.NET Core, .NET 9  
-- **Backend & DevOps:** Docker, Kubernetes, GitLab CI/CD, Ansible, AWS (EC2, S3), Redis  
+- **Backend & DevOps:** Docker, Kubernetes, GitLab CI/CD, Ansible, Redis, RabbitMQ, Nginx  
+- **Databases:** SQL Server, PostgreSQL  
 - **Systems & Embedded:** Linux administration, Raspberry Pi, WebSockets, Qt GUI apps  
-- **Cloud & Infrastructure:** Infrastructure-as-Code, Terraform, Monitoring (Prometheus/Grafana), GitOps  
+- **Cloud & Infrastructure:** AWS (EC2, S3), Terraform, Infrastructure-as-Code, Monitoring (Prometheus, Grafana), GitOps, CMake  
 - **Testing & Tools:** Postman, Selenium, RestAssured, Swagger  
 
 🎓 Certified in:<br>
@@ -20,8 +21,9 @@
 ## 🌐 Socials:
 📫 Let's connect: <br>🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar-546293299) <br>📄[My Resume](https://drive.google.com/file/d/1DvvpYvFPB8TSscmXrVfWNOoBet7b0kOm/view?usp=sharing)<br>
 
-
 # 💻 Tech Stack
+
+
 
 ## 🖥️ Programming
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />  
@@ -35,14 +37,15 @@
 ## 🌐 APIs & Protocols
 - REST APIs  
 - WebSockets  
-- gRPC
+- gRPC  
+- RabbitMQ  
 
 ## 🛠️ Tools & Systems
-<img src="https://skillicons.dev/icons?i=linux,git,raspberrypi,redis" />  
+<img src="https://skillicons.dev/icons?i=linux,git,raspberrypi,redis,cmake,nginx" />  
 - Git & CI/CD Tools  
 
 ## ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab,ansible" />  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab,ansible,terraform,postgres,grafana,prometheus" />  
 
 ## 🧪 Testing
 <img src="https://skillicons.dev/icons?i=postman" />  
@@ -54,6 +57,7 @@
 - Agile  
 - Clean Architecture  
 - Microservices  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-Magdy-Dewidar&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
