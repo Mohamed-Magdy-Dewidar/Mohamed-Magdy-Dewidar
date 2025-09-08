@@ -35,8 +35,7 @@
 ## 🌐 APIs & Protocols
 - REST APIs  
 - WebSockets  
-- JWT Authentication  
-- Stripe API  
+- gRPC
 
 ## 🛠️ Tools & Systems
 <img src="https://skillicons.dev/icons?i=linux,git,raspberrypi,redis" />  
