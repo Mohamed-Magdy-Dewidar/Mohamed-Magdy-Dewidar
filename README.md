@@ -1,12 +1,61 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Dewidar — a passionate computer engineer currently pursuing a B.Sc. at Nile University.<br><br>💡 I aspire to become a backend software engineer, mastering everything from foundational concepts to advanced architecture and cloud infrastructure.<br><br>🧠 I'm constantly learning technologies every backend engineer should know — from building RESTful APIs with ASP.NET Core and structuring MVC projects, to diving into DevOps pipelines, microservices, CI/CD, and infrastructure as code.<br><br>🛠️ My tech journey includes:<br>- **Languages & Frameworks:** C++, JavaScript, React.js, ASP.NET, Qt<br>- **Backend & DevOps:** Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, AWS<br>- **Systems & Embedded:** Linux admin, Yocto, Qt GUI apps, Raspberry Pi, WebSockets<br>- **Cloud & Infrastructure:** Virtualization (FusionCloud), Infrastructure-as-Code, Monitoring (Prometheus/Grafana), GitOps<br><br>🎓 Certified in:<br>- Huawei HCIA Cloud Computing<br>- Embedded Linux(IMT)<br>- Software Testing (Machinfy & ITI)<br>- Agile & IoT (ITI)<br>- DevOps Diploma (in progress)<br><br>🚀 I enjoy solving real-world problems and building scalable, secure, and maintainable backend systems.<br><br>📫 Let's connect:<br>🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar-546293299)  <br>📄 [My Resume](https://drive.google.com/file/d/1DvvpYvFPB8TSscmXrVfWNOoBet7b0kOm/view?usp=sharing)<br>
+👋 Hi, I'm Mohamed Dewidar — a passionate computer engineer currently pursuing a B.Sc. at Nile University.<br><br>💡 I specialize in building **scalable and modular server-side applications**, applying **clean architecture principles** and **microservices** to ensure performance, maintainability, and resilience.<br><br>🖥️ In addition to backend development, I am highly **knowledgeable in C++** and an **expert with the Qt framework**, enabling me to build efficient, high-performance applications and intuitive cross-platform GUIs.<br><br>☁️ I also have **hands-on experience with Docker, Kubernetes, and AWS** — leveraging cloud services for deploying applications and managing resources such as images, videos, and objects in **Amazon S3**.<br><br>📡 On the distributed systems side, I’m experienced in implementing **asynchronous messaging with RabbitMQ**, enabling reliable communication and distributed processing across services.<br><br>
 
+🛠️ My tech journey includes:<br>
+- **Languages & Frameworks:** C++ (expert), Qt, C#, JavaScript, TypeScript, React.js, ASP.NET Core, .NET 9  
+- **Backend & DevOps:** Docker, Kubernetes, GitLab CI/CD, Ansible, AWS (EC2, S3), Redis  
+- **Systems & Embedded:** Linux administration, Raspberry Pi, WebSockets, Qt GUI apps  
+- **Cloud & Infrastructure:** Infrastructure-as-Code, Terraform, Monitoring (Prometheus/Grafana), GitOps  
+- **Testing & Tools:** Postman, Selenium, RestAssured, Swagger  
+
+🎓 Certified in:<br>
+- Huawei HCIA Cloud Computing  
+- Embedded Linux (IMT)  
+- Software Testing (Machinfy & ITI)  
+- Agile & IoT (ITI)  
+- DevOps Diploma (in progress)<br><br>
+
+🚀 Passionate about delivering **high-quality backend and system solutions**, I aim to design and develop software that is not only technically sound but also impactful in real-world applications.  
 
 ## 🌐 Socials:
+📫 Let's connect: <br>🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar-546293299) <br>📄[My Resume](https://drive.google.com/file/d/1DvvpYvFPB8TSscmXrVfWNOoBet7b0kOm/view?usp=sharing)<br>
 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+# 💻 Tech Stack
+
+## 🖥️ Programming
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />  
+- Socket Programming  
+
+## ⚙️ Frameworks
+<img src="https://skillicons.dev/icons?i=dotnet,react,qt" />  
+- ASP.NET Core  
+- .NET 9  
+
+## 🌐 APIs & Protocols
+- REST APIs  
+- WebSockets  
+- JWT Authentication  
+- Stripe API  
+
+## 🛠️ Tools & Systems
+<img src="https://skillicons.dev/icons?i=linux,git,raspberrypi,redis" />  
+- Git & CI/CD Tools  
+
+## ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab,ansible" />  
+
+## 🧪 Testing
+<img src="https://skillicons.dev/icons?i=postman" />  
+- Selenium  
+- RestAssured  
+- Swagger  
+
+## 📐 Methodologies
+- Agile  
+- Clean Architecture  
+- Microservices  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohamed-Magdy-Dewidar&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohamed-Magdy-Dewidar&theme=synthwave&hide_border=false)<br/>
