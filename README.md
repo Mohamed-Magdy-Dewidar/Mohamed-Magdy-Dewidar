@@ -18,8 +18,6 @@
 
 🚀 Passionate about delivering **high-quality backend and system solutions**, I aim to design and develop software that is not only technically sound but also impactful in real-world applications.  
 
-## 🌐 Socials:
-📫 Let's connect: <br>🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-dewidar-546293299) <br>📄[My Resume](https://drive.google.com/file/d/1DvvpYvFPB8TSscmXrVfWNOoBet7b0kOm/view?usp=sharing)<br>
 
 # 💻 Tech Stack
 
