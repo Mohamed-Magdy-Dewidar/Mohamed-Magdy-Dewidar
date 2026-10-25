@@ -7,7 +7,6 @@ I design and build high-performance, fault-tolerant backend systems that scale. 
 - 🧩 **Backend & distributed systems:** microservices, event-driven design, CQRS, Sagas
 - ☁️ **Cloud-native & SRE:** Kubernetes, Terraform, observability
 - 🔌 **Edge to cloud:** C++ on embedded Linux, connected to cloud backends
-- 🌱 **Currently learning:** AI engineering and RAG
 
 ## 🛠️ Tech Stack
 
