@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Dewidar 👋
+# Mohamed Dewidar
 
 **Software Engineer | Distributed Systems & Edge AI**
 
